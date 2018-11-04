@@ -1,5 +1,5 @@
-import {Transform} from "prosemirror-transform"
-import {Mark} from "prosemirror-model"
+import {Transform} from "@jimpick/prosemirror-transform"
+import {Mark} from "@jimpick/prosemirror-model"
 
 const UPDATED_SEL = 1, UPDATED_MARKS = 2, UPDATED_SCROLL = 4
 

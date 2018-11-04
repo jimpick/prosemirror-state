@@ -1,5 +1,5 @@
-import {Slice, Fragment} from "prosemirror-model"
-import {ReplaceStep, ReplaceAroundStep} from "prosemirror-transform"
+import {Slice, Fragment} from "@jimpick/prosemirror-model"
+import {ReplaceStep, ReplaceAroundStep} from "@jimpick/prosemirror-transform"
 
 const classesById = Object.create(null)
 

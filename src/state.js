@@ -1,4 +1,4 @@
-import {Node} from "prosemirror-model"
+import {Node} from "@jimpick/prosemirror-model"
 
 import {Selection} from "./selection"
 import {Transaction} from "./transaction"
